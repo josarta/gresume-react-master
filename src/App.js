@@ -10,7 +10,7 @@ class App extends Component {
 
     const person = {
       avatar: '',
-      name: '',
+      name: 'Jose Luis Sarta Alvarez',
       profession: '',
       bio: '❤ Front end Developer - Growth Hacker at @CityDrive, CSS Lover, Geek & Blogger. Better known as The Grumpy Developer.',
       address: 'Bogota, Colombia.',
